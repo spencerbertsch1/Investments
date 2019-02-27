@@ -1,2 +1,4 @@
 # Investments
-Tuck Investments - Winter 2019
+Tuck - Winter 2019
+
+
