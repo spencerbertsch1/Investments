@@ -1,5 +1,6 @@
 # Investments
 
-Tuck - Winter 2019
+Tuck School of Business - Dartmouth College <br>
+Winter 2019
 
 
